@@ -1,0 +1,4 @@
+{"name":"focus","version":"1.0.0","private":true,"type":"module",
+"scripts":{"dev":"vercel dev","build":"node -e \"console.log('Static client + serverless API: nothing to build')\"","start":"vercel dev"},
+"engines":{"node":">=18"},
+"dependencies":{"jszip":"^3.10.1","mammoth":"^1.8.0","pdf-parse":"^1.1.1"}}
